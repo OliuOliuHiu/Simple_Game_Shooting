@@ -1,0 +1,6 @@
+*.xcf
+*/old
+*/assets
+*.db
+*__pycache__/
+venv/
